@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://zfingt.github.io/site-cn-9y-com/sitemap.xml
